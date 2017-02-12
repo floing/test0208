@@ -1,1 +1,2 @@
 select * from google  where  in(1,2,3)
+SELECT  * from  
